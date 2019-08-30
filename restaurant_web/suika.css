@@ -1,0 +1,110 @@
+<style>
+
+        .header img{
+
+            float: left;
+            left:0px;
+            width:20%;
+            height:10%;
+            background:#555;
+            background-size:auto;
+
+          
+
+        }
+        .header h1{
+            position:relative;
+            top:0;
+            left:0;
+            text-align:center;
+            font-size:300%;
+            margin-left:130px;
+            padding:10px 50px 50px 50px;
+            color:aquamarine;
+        }
+        body{
+
+            background-image:url(background_image.jpg);
+        }
+        nav{
+            background-color:aquamarine;
+            text-align:center;
+            font-size:30px;
+        }
+        #contact{
+            padding-left:20px;
+            
+        }
+        #dinner{
+            padding-left:20px;
+        }
+        a:link{
+            color:green;
+            
+        }
+        a:visited{
+
+            color:red;
+            
+        }
+        a:active{
+            color:blue;
+        }
+
+        a:hover{
+            color:hotpink;
+        }
+        #contact a:link{
+            
+            color:blue;
+        }
+        #contact a:visited{
+            color:purple;
+        }
+       
+        #information{
+            background-color:rgba(255, 255, 255,0.5);
+            text-align:center;
+        }
+        #kingyo{
+            padding-left:20px;
+        }
+        #raisu{
+            padding-left:20px;
+        }
+        #radio{
+            padding-left:20px;
+        }
+        td{
+            color:white;
+        }
+        #l_list{
+            color:white;
+        }
+        #entrance{
+            
+            width:500px;
+            height:500px;
+            left:0;
+        }
+        #d_list{
+            color:white;
+        }
+        #description{
+            font-size:larger;
+            text-align:right;
+            color:white;
+            position:absolute;
+            top:500px;
+            left:600px
+            
+
+        }
+        #takeout{
+            text-align:center;
+        }
+        footer{
+            background-color:aquamarine;
+            color:black;
+            text-align:center;
+        }
